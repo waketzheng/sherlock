@@ -9,7 +9,7 @@ Giphy
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
 Rarible
@@ -25,6 +25,7 @@ Spotify
 Trovo
 TryHackMe
 Weblate
+Wordnik
 YandexMusic
 interpals
 mercadolivre
