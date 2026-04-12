@@ -3,18 +3,15 @@ APClips
 Archive.org
 Bandcamp
 Codolio
-DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
-GitBook
 Hashnode
 Hubski
 LessWrong
-Minecraft
+LushStories
 Patched
 PocketStars
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -25,8 +22,8 @@ SlideShare
 Smule
 Splice
 Spotify
-Trovo
 TryHackMe
+Velomania
 Weblate
 YandexMusic
 interpals
@@ -34,3 +31,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
