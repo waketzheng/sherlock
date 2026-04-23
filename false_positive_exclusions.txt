@@ -3,15 +3,15 @@ APClips
 Apple Discussions
 Archive.org
 Bandcamp
+Carbonmade
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
-LessWrong
+LushStories
 Patched
 Rarible
 Realmeye
@@ -32,4 +32,5 @@ interpals
 mercadolivre
 opennet
 phpRU
+programming.dev
 svidbook
