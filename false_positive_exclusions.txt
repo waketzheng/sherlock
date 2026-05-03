@@ -13,10 +13,9 @@ GeeksforGeeks
 Giphy
 Hashnode
 Hubski
+LessWrong
 LushStories
 Patched
-Pornhub
-Python.org Discussions
 Rarible
 Realmeye
 Reddit
@@ -31,6 +30,7 @@ Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 dailykos
 interpals
@@ -38,3 +38,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
