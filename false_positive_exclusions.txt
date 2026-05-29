@@ -1,6 +1,7 @@
 7Cups
 Airliners
 Apple Discussions
+Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -10,9 +11,10 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
+GitHub
 Hashnode
 Hubski
-LiveJournal
+LessWrong
 LushStories
 Minecraft
 Patched
