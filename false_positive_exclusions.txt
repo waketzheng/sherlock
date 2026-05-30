@@ -1,7 +1,7 @@
 7Cups
+APClips
 Airliners
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
@@ -11,13 +11,12 @@ Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-GitHub
 Hashnode
 Hubski
 LessWrong
 LushStories
-Minecraft
 Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -34,7 +33,6 @@ TryHackMe
 Velomania
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
 igromania
 interpals
