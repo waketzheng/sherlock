@@ -9,13 +9,16 @@ Bandcamp
 Codolio
 Cults3D
 Discord.bio
+Eintracht Frankfurt Forum
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Hubski
 LessWrong
+LushStories
 Minecraft
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -28,11 +31,11 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
 TryHackMe
 Velomania
 Weblate
 YandexMusic
-authorSTREAM
 dailykos
 igromania
 interpals
@@ -40,4 +43,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
-threads
+xHamster
