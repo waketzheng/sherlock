@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -16,9 +15,8 @@ Giphy
 HackenProof (Hackers)
 Hashnode
 Hubski
-Itch.io
 LessWrong
-OurDJTalk
+LushStories
 Patched
 Pornhub
 Rarible
