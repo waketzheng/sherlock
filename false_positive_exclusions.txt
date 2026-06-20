@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -16,7 +15,9 @@ Hashnode
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
+OurDJTalk
 Patched
 Pornhub
 Rarible
@@ -40,7 +41,6 @@ dailykos
 igromania
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 svidbook
