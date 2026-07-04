@@ -7,7 +7,7 @@ ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
-Cracked Forum
+DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
@@ -17,6 +17,8 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Odysee
+OurDJTalk
 PCGamer
 Patched
 Rarible
@@ -29,17 +31,17 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
-fixya
 igromania
 interpals
 mercadolivre
-minds
 opennet
 phpRU
 svidbook
