@@ -10,18 +10,17 @@ Codolio
 DeviantArt
 Discord.bio
 Envato Forum
+Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
 LessWrong
-LushStories
+Minecraft
 Odysee
-OurDJTalk
 PCGamer
 Patched
-Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -32,9 +31,11 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trovo
 TryHackMe
 Velomania
 Weblate
+Wordnik
 YandexMusic
 authorSTREAM
 dailykos
