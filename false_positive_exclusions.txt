@@ -3,22 +3,22 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
-Archive of Our Own
 Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
 Codolio
 Discord.bio
+Dribbble
 Envato Forum
 GeeksforGeeks
 Giphy
 Hashnode
 Houzz
 Hubski
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Odysee
 PCGamer
 Patched
@@ -45,4 +45,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
