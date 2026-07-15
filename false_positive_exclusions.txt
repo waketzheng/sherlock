@@ -18,9 +18,9 @@ Houzz
 Hubski
 LessWrong
 LushStories
+Minecraft
 Odysee
 PCGamer
-Patched
 Pornhub
 Rarible
 Realmeye
@@ -32,6 +32,8 @@ Shelf
 SlideShare
 Splice
 Spotify
+Star Citizen
+Trovo
 TryHackMe
 Velomania
 Weblate
