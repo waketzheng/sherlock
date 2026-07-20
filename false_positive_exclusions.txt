@@ -3,6 +3,7 @@ APClips
 Airliners
 Apple Developer
 Apple Discussions
+Archive.org
 ArtStation
 Bandcamp
 BreachSta.rs Forum
@@ -17,7 +18,9 @@ Hubski
 LessWrong
 LushStories
 Odysee
+OurDJTalk
 PCGamer
+Patched
 Pornhub
 Rarible
 Realmeye
@@ -42,3 +45,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
