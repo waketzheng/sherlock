@@ -6,7 +6,6 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-CGTrader
 Codolio
 DeviantArt
 Discord.bio
@@ -19,6 +18,8 @@ LessWrong
 LushStories
 Odysee
 PCGamer
+Patched
+Pornhub
 Rarible
 Realmeye
 Reddit
@@ -26,10 +27,10 @@ Replit.com
 RocketTube
 Scribd
 Shelf
-Slack
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Velomania
