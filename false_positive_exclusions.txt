@@ -5,10 +5,8 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Chatujme.cz
 Codolio
-Cults3D
 DeviantArt
 Discord.bio
 Envato Forum
@@ -18,14 +16,11 @@ Giphy
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LessWrong
-LushStories
 Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
@@ -36,7 +31,7 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
+Strava
 Trovo
 TryHackMe
 Weblate
