@@ -6,13 +6,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
 Discord.bio
 Envato Forum
 F3.cool
-Flipboard
 GeeksforGeeks
 Giphy
 Hashnode
@@ -20,7 +21,7 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-LushStories
+LiveJournal
 Minecraft
 Odysee
 PCGamer
@@ -36,6 +37,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 Trovo
 TryHackMe
 Weblate
@@ -48,3 +50,4 @@ mercadolivre
 opennet
 phpRU
 svidbook
+xHamster
