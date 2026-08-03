@@ -7,7 +7,6 @@ Archive.org
 ArtStation
 Bandcamp
 Blogger
-BoardGameGeek
 Chatujme.cz
 Codolio
 DeviantArt
@@ -21,16 +20,16 @@ Houzz
 Hubski
 Instapaper
 LessWrong
-LiveJournal
+LushStories
 Minecraft
 Odysee
 PCGamer
 Patched
-Pornhub
 Rarible
 Realmeye
 Reddit
 Replit.com
+ReverbNation
 RocketTube
 Scribd
 Shelf
@@ -41,6 +40,7 @@ Trakt
 Trovo
 TryHackMe
 Weblate
+WordPress
 YandexMusic
 authorSTREAM
 dailykos
