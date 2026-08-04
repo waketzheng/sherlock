@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -19,12 +18,12 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LessWrong
 LushStories
-Minecraft
 Odysee
+OurDJTalk
 PCGamer
-Patched
 Rarible
 Realmeye
 Reddit
@@ -40,7 +39,6 @@ Trakt
 Trovo
 TryHackMe
 Weblate
-WordPress
 YandexMusic
 authorSTREAM
 dailykos
@@ -50,4 +48,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
