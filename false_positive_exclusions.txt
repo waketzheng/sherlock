@@ -6,7 +6,9 @@ Archive.org
 ArtStation
 Bandcamp
 Chatujme.cz
+Chess
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -27,6 +29,7 @@ Reddit
 Replit.com
 ReverbNation
 RocketTube
+Scribd
 Shelf
 SlideShare
 Splice
@@ -34,7 +37,6 @@ Spotify
 Trakt
 Trovo
 TryHackMe
-Velomania
 Weblate
 YandexMusic
 authorSTREAM
