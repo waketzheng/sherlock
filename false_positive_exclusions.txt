@@ -6,6 +6,7 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -23,9 +24,12 @@ Houzz
 Hubski
 Instapaper
 LushStories
+Minecraft
+ObservableHQ
 Odysee
 PCGamer
 Pornhub
+Rajce.net
 Rarible
 Realmeye
 Reddit
@@ -53,4 +57,3 @@ mercadolivre
 opennet
 phpRU
 svidbook
-xHamster
