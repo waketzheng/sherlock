@@ -10,20 +10,20 @@ Championat
 Chatujme.cz
 ChaturBate
 Codolio
+ColourLovers
 DeviantArt
 Discord.bio
 Envato Forum
 GeeksforGeeks
 Giphy
-HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 LushStories
 ObservableHQ
 Odysee
-OurDJTalk
 PCGamer
 Pornhub
 Rarible
@@ -52,4 +52,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
