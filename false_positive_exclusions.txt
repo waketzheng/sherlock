@@ -5,11 +5,14 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+CGTrader
 Championat
 Chatujme.cz
 ChaturBate
 Codolio
 Cracked Forum
+Crevado
 DeviantArt
 Discord.bio
 Envato Forum
@@ -19,8 +22,8 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Lobsters
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
