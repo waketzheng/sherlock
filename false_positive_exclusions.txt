@@ -10,6 +10,7 @@ CGTrader
 Championat
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 Envato Forum
@@ -21,7 +22,6 @@ Hubski
 Instapaper
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -38,6 +38,8 @@ Spotify
 Trakt
 Trovo
 TryHackMe
+Velomania
+Venmo
 Weblate
 YandexMusic
 authorSTREAM
