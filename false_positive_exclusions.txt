@@ -1,5 +1,4 @@
 7Cups
-APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -23,6 +22,7 @@ Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 LushStories
 Minecraft
@@ -56,4 +56,3 @@ opennet
 phpRU
 social.tchncs.de
 svidbook
-xHamster
