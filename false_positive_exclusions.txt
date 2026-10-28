@@ -20,6 +20,7 @@ Houzz
 Hubski
 Instapaper
 Linktree
+LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -34,8 +35,10 @@ Shelf
 SlideShare
 Splice
 Spotify
+Trakt
 TryHackMe
 Velomania
+Vero
 Weblate
 YandexMusic
 authorSTREAM
@@ -44,6 +47,7 @@ fixya
 hunting
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
