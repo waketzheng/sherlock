@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -20,7 +21,6 @@ Houzz
 Hubski
 Instapaper
 Linktree
-LushStories
 Minecraft
 ObservableHQ
 Odysee
@@ -47,7 +47,6 @@ fixya
 hunting
 interpals
 mercadolivre
-nnRU
 opennet
 phpRU
 social.tchncs.de
