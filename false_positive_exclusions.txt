@@ -4,9 +4,10 @@ Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
+Blogger
+BoardGameGeek
 Championat
 Chatujme.cz
-ChaturBate
 Codolio
 DeviantArt
 Discord.bio
@@ -14,7 +15,6 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
-GitHub
 HackerNews
 Hashnode
 Houzz
@@ -22,11 +22,10 @@ Hubski
 Instapaper
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
-Rajce.net
-Rarible
 Realmeye
 Reddit
 ReverbNation
@@ -36,8 +35,8 @@ Shelf
 SlideShare
 Splice
 Spotify
-Trakt
 TryHackMe
+Velomania
 Vero
 YandexMusic
 authorSTREAM
