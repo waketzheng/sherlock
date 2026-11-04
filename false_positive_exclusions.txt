@@ -1,11 +1,10 @@
 APClips
 Airliners
 Apple Developer
+Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
-CTAN
 Championat
 Chatujme.cz
 ChaturBate
@@ -16,13 +15,16 @@ Envato Forum
 GaiaOnline
 GeeksforGeeks
 Giphy
+GitHub
 HackerNews
 Hashnode
 Houzz
 Hubski
 Instapaper
+Itch.io
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -45,6 +47,7 @@ authorSTREAM
 dailykos
 fixya
 hunting
+igromania
 interpals
 mercadolivre
 opennet
