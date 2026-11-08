@@ -1,10 +1,10 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
 Archive.org
 ArtStation
 Bandcamp
-Blogger
 Championat
 Chatujme.cz
 ChaturBate
@@ -24,7 +24,6 @@ Instapaper
 Itch.io
 Linktree
 LushStories
-Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -53,3 +52,4 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
+xHamster
