@@ -17,15 +17,17 @@ GaiaOnline
 GeeksforGeeks
 Giphy
 HackerNews
+HackerRank
 Hashnode
 Houzz
 Hubski
 Instapaper
-Itch.io
 Linktree
 LushStories
+Minecraft
 ObservableHQ
 Odysee
+Outgress
 PCGamer
 Rarible
 Realmeye
@@ -37,6 +39,7 @@ Shelf
 SlideShare
 Splice
 Spotify
+TnAFlix
 Trakt
 TryHackMe
 Velomania
@@ -52,4 +55,3 @@ mercadolivre
 opennet
 phpRU
 social.tchncs.de
-xHamster
