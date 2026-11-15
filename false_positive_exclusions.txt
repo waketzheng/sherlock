@@ -1,3 +1,4 @@
+APClips
 Airliners
 Apple Developer
 Apple Discussions
@@ -5,6 +6,7 @@ Archive.org
 Championat
 Chatujme.cz
 Codolio
+Cracked Forum
 DeviantArt
 Discord.bio
 GaiaOnline
@@ -13,8 +15,8 @@ HackerNews
 Hashnode
 Hubski
 Instapaper
-Itch.io
 LushStories
+Minecraft
 ObservableHQ
 Odysee
 PCGamer
@@ -31,6 +33,7 @@ Spotify
 Trakt
 TryHackMe
 Velomania
+Venmo
 Vero
 YandexMusic
 authorSTREAM
@@ -40,6 +43,7 @@ hunting
 igromania
 interpals
 mercadolivre
+nnRU
 opennet
 phpRU
 social.tchncs.de
